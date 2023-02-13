@@ -1,2 +1,2 @@
-# NewsLtterDigital
+# NewsLetterDigital
 yau
